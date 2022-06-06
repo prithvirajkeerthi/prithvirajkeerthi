@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring,Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://prithvirajkeerthi.github.io/prithvirajkeerthi/](https://prithvirajkeerthi.github.io/prithvirajkeerthi/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prithvirajkeerthi.github.io/prithvirajkeerthi/)
 
 - 📝 I regularly write articles on [@prithvirajkeerthi](@prithvirajkeerthi)
 
