@@ -1,4 +1,4 @@
-# prithviraj-portfolio
+
 <h1 align="center">Hi 👋, I'm Prithvi raj Keerthi</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring,Spring Boot**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://prithvirajkeerthi.github.io/prithvirajkeerthi/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prithvirajkeerthi.netlify.app/)
 
 - 📝 I regularly write articles on [@prithvirajkeerthi](@prithvirajkeerthi)
 
